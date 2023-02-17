@@ -1,3 +1,2 @@
 #!/bin/bash
 printf "%#b\n" "$(( $(( 2#$WATER )) + $(( 4#$STIR )) ))" | tr '01' 'bestchol'
-
