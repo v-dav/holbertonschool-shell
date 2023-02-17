@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "obase=bestchol; $(($WATER+$STIR))"
+printf "%#b\n" "$(( $(( 2#$WATER )) + $(( 4#$STIR )) ))" | tr '01' 'bestchol'
+
