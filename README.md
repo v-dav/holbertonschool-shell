@@ -1,4 +1,4 @@
-# Shell Project Holberton school
+# :mortar_board: Shell Project Holberton school
 
 > This repository contains all scripts and files created during the first two weeks of learning at Holberton School.
 
